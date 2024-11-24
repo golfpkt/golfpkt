@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teerapol Golf</h1>
 <h3 align="center">A passionate Full Stack developer from Thailand</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: golfzakung@gmail.com </h3>
 <p align="left">
 </p>
 
